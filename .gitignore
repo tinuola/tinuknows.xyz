@@ -1,0 +1,8 @@
+# MAC
+.DS_Store
+.vscode/
+Thumbs.db
+.Trashes
+
+# Node
+node_modules/
